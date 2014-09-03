@@ -56,4 +56,6 @@
     }
   });
 
+  var directory = new DirectoryView();
+
 } (jQuery));
